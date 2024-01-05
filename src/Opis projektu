@@ -1,0 +1,8 @@
+System stworzony jest do zarządzania zamówieniami w restauracji,
+który obejmuje zarówno procesowanie zamówień,
+ich logowanie, jak i generowanie raportów.
+
+Użyte zostały następujące wzorce:
+    - Wzorzec Stanu dla Zarządzania Zamówieniami
+    - Wzorzec Łańcucha Zobowiązań dla Logowania
+    - Wzorzec Budowniczego dla Raportów Zamówień
